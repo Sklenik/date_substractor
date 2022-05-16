@@ -1,7 +1,7 @@
 # function that calculates diffecence between two dates in YYYYMMDD format.
 
 '''
-#uncomment this section if you want to shell
+#uncomment this section if you want to use shell
 import sys
 try:
     m = sys.argv[1]
